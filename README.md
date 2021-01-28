@@ -7,4 +7,6 @@ dis_sym_dataset_norm.csv
 
 2. Add the "bert_model"
 
-3. Run app.py 
+3. pip install -r requirements.txt
+
+4. Run app.py 
