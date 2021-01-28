@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+matplotlib
+plotly
+nltk
+mlxtend
+pickle
+scikit-learn
+xgboost
+textblob
+sentence-transformers
